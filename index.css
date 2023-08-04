@@ -1,5 +1,10 @@
 body{
     background-color: antiquewhite;
+    
 }
-
-
+h1,h2{
+    text-align: center;
+}
+a{
+    padding: 20px;
+}
